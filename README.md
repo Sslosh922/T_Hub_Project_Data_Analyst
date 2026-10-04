@@ -1,6 +1,3 @@
-😂 Yeah bro, that was **way too much** for a basic GitHub project. Keep the README clean and recruiter-friendly.
-
-Copy this **whole thing**:
 
 ```markdown
 # T-Hub Startup & Operations Analytics
