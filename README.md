@@ -118,9 +118,4 @@ T-Hub-Analytics/
 ## 👨‍💻 Author
 
 **Koti Tarun**
-
 B.E. Artificial Intelligence & Data Science  
-Ramaiah Institute of Technology, Bengaluru
-```
-
-**This is enough.** Don't put every SQL query, DAX formula, dataset column, or explanation in the README. Keep those inside the respective `SQL/`, `Python/`, and `PowerBI/` folders.
